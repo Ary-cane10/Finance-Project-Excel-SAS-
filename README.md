@@ -1,2 +1,2 @@
 # Finance-Project-Excel-SAS-
-This portfolio project analyzes the post-IPO performance of five publicly traded companies by comparing returns over time to evaluate whether overvalued IPOs occur more frequently in the long run than undervalued IPOs in the short run.
+This portfolio project analyzes the post-IPO performance of five publicly traded companies by comparing returns over time to evaluate whether overvalued IPOs occur more frequently in the long run than undervalued IPOs in the short run. This idea was based on a paper titled "The Long-Run Performance of Initial Public Offerings" by Jay R Ritter which you will find included in this repository. 
